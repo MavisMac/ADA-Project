@@ -27,9 +27,6 @@ In order to avoid tons of workload, we would like to experiment with the selecte
 - Home and Kitchen: 
 	- Review data: 5-core, 551,682 reviews
 	- Metadata: 436,988 products
-- Clothing, Shoes and Jewellery: 
-	- Review data: 5-core, 278,677 reviews
-	- Metadata: 1,503,384 products
 
 For practical use, we use the 5-core data, which is a subset of the data in which all users and items have at least 5 reviews.
 
